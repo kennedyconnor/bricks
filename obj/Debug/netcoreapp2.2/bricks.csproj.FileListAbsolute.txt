@@ -1,0 +1,14 @@
+C:\source\codeworks\bricks\bin\Debug\netcoreapp2.2\bricks.deps.json
+C:\source\codeworks\bricks\bin\Debug\netcoreapp2.2\bricks.runtimeconfig.json
+C:\source\codeworks\bricks\bin\Debug\netcoreapp2.2\bricks.runtimeconfig.dev.json
+c:\source\codeworks\bricks\bin\Debug\netcoreapp2.2\bricks.dll
+c:\source\codeworks\bricks\bin\Debug\netcoreapp2.2\bricks.pdb
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.csprojAssemblyReference.cache
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.csproj.CoreCompileInputs.cache
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.RazorAssemblyInfo.cache
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.RazorAssemblyInfo.cs
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.AssemblyInfoInputs.cache
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.AssemblyInfo.cs
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.RazorTargetAssemblyInfo.cache
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.dll
+c:\source\codeworks\bricks\obj\Debug\netcoreapp2.2\bricks.pdb
